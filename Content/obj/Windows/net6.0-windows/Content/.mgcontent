@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Admin/Documents/GitHub/spel-test/Content/bucket-clipart-design-illustration-free-png.webp</File>
+    <File>C:/Users/Admin/Documents/GitHub/spel-test/Content/istockphoto-836548442-612x612.jpg</File>
+    <File>C:/Users/Admin/Documents/GitHub/spel-test/Content/png-clipart-bucket-buckets-barrel-material-thumbnail.png</File>
+    <File>C:/Users/Admin/Documents/GitHub/spel-test/Content/pngtree-plain-white-mug-png-image_9949524.png</File>
+    <File>C:/Users/Admin/Documents/GitHub/spel-test/Content/sticker-png-people-social-group-cartoon-community-sharing-team-job-collaboration.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
