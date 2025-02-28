@@ -25,6 +25,13 @@
 /processorParam:TextureFormat=Color
 /build:bucket-clipart-design-illustration-free-png.webp
 
+#begin fontScore.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:fontScore.spritefont
+
 #begin istockphoto-836548442-612x612.jpg
 /importer:TextureImporter
 /processor:TextureProcessor

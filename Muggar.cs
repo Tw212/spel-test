@@ -23,7 +23,7 @@ namespace spel_test
             this.texture = texture;
             Random rand = new Random();
             int size = 40;
-            speed = rand.NextFloat(5, 100);
+            speed = 50;
             position.X = rand.NextFloat(0, 750);
             position.Y = -50;
             hitbox = new ((int) position.X, (int) position.Y, size, size);
