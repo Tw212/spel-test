@@ -42,3 +42,6 @@ c:\Users\Admin\Documents\GitHub\spel-test\bin\Debug\net6.0-windows\Content\bucke
 c:\Users\Admin\Documents\GitHub\spel-test\bin\Debug\net6.0-windows\Content\pngtree-plain-white-mug-png-image_9949524.xnb
 c:\Users\Admin\Documents\GitHub\spel-test\obj\Debug\net6.0-windows\spel-test.sourcelink.json
 c:\Users\Admin\Documents\GitHub\spel-test\bin\Debug\net6.0-windows\Content\fontScore.xnb
+c:\Users\Admin\Documents\GitHub\spel-test\bin\Debug\net6.0-windows\Content\stone fortress.wma
+c:\Users\Admin\Documents\GitHub\spel-test\bin\Debug\net6.0-windows\Content\stone fortress.xnb
+c:\Users\Admin\Documents\GitHub\spel-test\bin\Debug\net6.0-windows\Content\File.xnb

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <SourceFile>C:/Users/Admin/Documents/GitHub/spel-test/Content/png-clipart-bucket-buckets-barrel-material-thumbnail.png</SourceFile>
-  <SourceTime>2025-02-28T09:58:04.8389807+01:00</SourceTime>
+  <SourceTime>2025-03-07T10:16:57.1730879+01:00</SourceTime>
   <DestFile>C:/Users/Admin/Documents/GitHub/spel-test/Content/bin/Windows/Content/png-clipart-bucket-buckets-barrel-material-thumbnail.xnb</DestFile>
-  <DestTime>2025-02-28T09:59:20.5920368+01:00</DestTime>
+  <DestTime>2025-03-07T10:17:45.9145722+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2022-07-26T13:44:56+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

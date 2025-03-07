@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
+using Microsoft.Xna.Framework.Media;
 using SharpDX.Direct2D1.Effects;
+
 
 namespace spel_test;
 
@@ -17,6 +19,8 @@ public class Game1 : Game
     private Texture2D Muggar;
     private int points = 0;
     SpriteFont fontScore;
+    Song theme;
+    SpriteFont font;
     
     private List<Muggar> enemies = new List<Muggar>();
 
@@ -42,6 +46,9 @@ public class Game1 : Game
         Muggar = Content.Load<Texture2D>("pngtree-plain-white-mug-png-image_9949524");
         fontScore = Content.Load<SpriteFont>("fontScore");
         hink = new Hink (player, new Vector2(380,400), 50);
+        theme = Content.Load<Song>("stone fortress");
+        MediaPlayer.Play(theme);
+        font = Content.Load<SpriteFont>("File");
 
         // TODO: use this.Content to load your game content here
     }
@@ -68,6 +75,7 @@ public class Game1 : Game
         GraphicsDevice.Clear(Color.CornflowerBlue);
         GraphicsDevice.Clear(Color.SkyBlue );
         _spriteBatch.Begin();
+        _spriteBatch.DrawString(font,"samla muggarna!",new Vector2(310,70),Color.Black);
         foreach(Muggar muggar in enemies){
             muggar.Draw(_spriteBatch);
         }
